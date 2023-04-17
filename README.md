@@ -1,4 +1,5 @@
 # Discord-X-Chatgpt
 <p>This small programs helps you to use chatgpt in discord</p>
-To be start
-You need to use pip install -r requirements.txt 
+<p>To be start</p>
+</p>You need to use </p>
+pip install -r requirements.txt 
