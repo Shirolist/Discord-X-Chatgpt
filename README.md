@@ -5,3 +5,7 @@
 ```php
 Format pip install -r requirements.txt
 ```
+```php
+$s = "PHP 語法高亮";
+echo $s;
+```
