@@ -3,5 +3,5 @@
 <p>To be start</p>
 </p>You need to use </p>
 ```
-> pip install -r requirements.txt 
+pip install -r requirements.txt 
 ```
